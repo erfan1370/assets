@@ -1,0 +1,12 @@
+{
+    "name": "ForwardToken",
+    "symbol": "BTF",
+    "type": "TRC20",
+    "decimals": 18,
+    "description": "TRC20 Token",
+    "website": "https://www.ForwardToken.com/",
+    "explorer": "https://tronscan.io/#/token20/THHkUaTSsNFnHukmPWnksrDYuoCtkXCPK9",
+    "status": "active",
+    "id": "THHkUaTSsNFnHukmPWnksrDYuoCtkXCPK9"
+}
+© 2021 GitHub, Inc.
